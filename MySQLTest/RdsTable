@@ -1,0 +1,3 @@
+select * from user;
+
+ INSERT INTO user VALUES('shariff','shariff@gmail.com','hello',current_timestamp);
